@@ -1,0 +1,12 @@
+## About Me
+
+Oracle HCM Cloud & Oracle Cloud SRE professional with 15+ years of experience in enterprise production support, release management, operational stability, and workflow automation.
+
+Experienced in:
+- Oracle HCM Cloud (Core HR, NA Payroll, Absence)
+- Oracle Cloud SRE & Production Support
+- Quarterly Updates & Release Governance
+- Incident Management & RCA
+- AI-assisted automation using GitHub Copilot & VS Code
+
+Interested in building AI-assisted agents and automation utilities to optimize enterprise operational workflows and support activities.
